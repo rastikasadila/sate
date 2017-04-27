@@ -14,8 +14,6 @@ return true;
  	public function ganti foto (){
  		return true;
  	}
-
- }
  	public function hapus(){
  		return true;
  	}
