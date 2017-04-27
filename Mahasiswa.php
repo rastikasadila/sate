@@ -16,4 +16,8 @@ return true;
  	}
 
  }
+ 	public function hapus(){
+ 		return true;
+ 	}
+ 	}
  ?>
