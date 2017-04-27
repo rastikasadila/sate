@@ -6,5 +6,7 @@
  	public tambah (){
  		return true;
  	}
+public function lihat profil (){}
+return true;
  }
  ?>
