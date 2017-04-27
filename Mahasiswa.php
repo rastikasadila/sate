@@ -6,11 +6,17 @@
  	public tambah (){
  		return true;
  	}
+
 public function lihat profil (){}
 return true;
  }
  	public function hapus(){
  		return true;
  	}
+
+ 	public function ubah(){
+ 		return true;
  	}
- ?>
+ }
+?>
+
