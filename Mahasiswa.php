@@ -9,4 +9,8 @@
 public function lihat profil (){}
 return true;
  }
+ 	public function hapus(){
+ 		return true;
+ 	}
+ 	}
  ?>
