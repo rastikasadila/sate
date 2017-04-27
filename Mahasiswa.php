@@ -6,5 +6,8 @@
  	public tambah (){
  		return true;
  	}
+ 	public function ganti foto (){
+ 		return true;
+ 	}
  }
  ?>
